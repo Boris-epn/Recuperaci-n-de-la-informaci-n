@@ -1,0 +1,2 @@
+snowballstemmer==3.0.1
+waitress==3.0.2
